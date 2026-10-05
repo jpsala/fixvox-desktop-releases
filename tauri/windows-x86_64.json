@@ -1,11 +1,11 @@
 {
-  "version": "0.1.27",
-  "notes": "Isolate companion snapshots and coordinate native window presentation.",
-  "pub_date": "2026-09-28T11:33:19.899Z",
+  "version": "0.1.28",
+  "notes": "Start dictation from the scoped local preset cache and refresh presets in the background. Add preparation, transcription and postprocessing timings with transport error codes.",
+  "pub_date": "2026-10-05T00:13:49.200Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNU1UMHJVV014ZXV1T1FCbFJWNyt5aTRENmoxaXl1TGtKQU9vbFVpUEVCSys4ZkV5UWFOTmw5bk0xYzU1bDFPQ20vNXYzK2dEUkVuOExsaldwdGZ6SEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTk1MTg3CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yN194NjQtc2V0dXAuZXhlClorV3JMK1dWaE96SVUyQkV5U085TWloc0RXU1lvTlNBamJYWUhlR1BKWmk3bzVnRFVIOFVoOEJNbHZPZE9SQ3E5QURXNlQ0eFdCWjRhbmFaZ2lnaEJRPT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.27-20260928112948/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNVAyNEU4YUczL2w2TVBUNUo3RnRDZjdSTFkvZ3hld2phc0s3bW80eGhmM01mWlk1dTJNV2dQRHhRdHhBa3Q1U0FoY0lsb2k0ZmFnajcvS1hjUk1GVVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTU5MTc4CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yOF94NjQtc2V0dXAuZXhlCmZlek5MRFZuMVRUVXd2S1IrcEVYTnBJUGRmaHMvcXI4R21oc1RoNWhZREpoeHd5RDlOVzg4ZTRlRWJlQVAvR3FJMnFxTDJuVjdHQThPalJOUnpsaEJBPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.28-20261005001000/Fixvox-Tauri-Setup.exe"
     }
   }
 }
