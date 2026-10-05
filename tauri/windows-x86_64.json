@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "Start dictation from the scoped local preset cache and refresh presets in the background. Add preparation, transcription and postprocessing timings with transport error codes.",
-  "pub_date": "2026-10-05T00:13:49.200Z",
+  "version": "0.1.29",
+  "notes": "Improve Whisper input with lossless FLAC, conservative silence trimming and voice-based level normalization. Managed dictation omits instruction prompts and defaults to Spanish. Preserve fast mode without postprocessing.",
+  "pub_date": "2026-10-05T01:57:57.921Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNVAyNEU4YUczL2w2TVBUNUo3RnRDZjdSTFkvZ3hld2phc0s3bW80eGhmM01mWlk1dTJNV2dQRHhRdHhBa3Q1U0FoY0lsb2k0ZmFnajcvS1hjUk1GVVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTU5MTc4CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yOF94NjQtc2V0dXAuZXhlCmZlek5MRFZuMVRUVXd2S1IrcEVYTnBJUGRmaHMvcXI4R21oc1RoNWhZREpoeHd5RDlOVzg4ZTRlRWJlQVAvR3FJMnFxTDJuVjdHQThPalJOUnpsaEJBPT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.28-20261005001000/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNU9MYWFOR2lTYWRQZ2YwMkhzSTh4QzQxMTRUMDdvY1AwK0JxUldVaG52aXVZZmNlN29JdHlrZkd3bTIrRmtDUmpiYlVoUktIYll3OVhRTWcyRHhSWHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTY0NjYwCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yOV94NjQtc2V0dXAuZXhlCmxieE9zMURNM0dCd1daMUR4cUhNaTE1VEpGVnNJUXF5Y29oTmVicVNUWFlGZUpxMk1UMk5SZTQxTmNGWnBuRXlraEFQNTdRakgwdUpkY09qU2VWRUR3PT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.29-20261005014033/Fixvox-Tauri-Setup.exe"
     }
   }
 }
