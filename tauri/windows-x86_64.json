@@ -1,11 +1,11 @@
 {
-  "version": "0.1.29",
-  "notes": "Improve Whisper input with lossless FLAC, conservative silence trimming and voice-based level normalization. Managed dictation omits instruction prompts and defaults to Spanish. Preserve fast mode without postprocessing.",
-  "pub_date": "2026-10-05T01:57:57.921Z",
+  "version": "0.1.30",
+  "notes": "Soniox Realtime y recuperación del audio conservado desde el historial. Se corrigió un retraso acumulativo durante el envío de audio. Se mantienen las preferencias y los audios existentes.",
+  "pub_date": "2026-10-06T18:59:56.07Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNU9MYWFOR2lTYWRQZ2YwMkhzSTh4QzQxMTRUMDdvY1AwK0JxUldVaG52aXVZZmNlN29JdHlrZkd3bTIrRmtDUmpiYlVoUktIYll3OVhRTWcyRHhSWHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTY0NjYwCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yOV94NjQtc2V0dXAuZXhlCmxieE9zMURNM0dCd1daMUR4cUhNaTE1VEpGVnNJUXF5Y29oTmVicVNUWFlGZUpxMk1UMk5SZTQxTmNGWnBuRXlraEFQNTdRakgwdUpkY09qU2VWRUR3PT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.29-20261005014033/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUtwSEc5Q1ZZK09nUzVSWlVNcDRpdk9zZm9xOEFaK0s0TWsydXVKQS9yNkNGbUFqUXhMdmZ3RUFYanF4Zjh3Q1dpZ3NlcXJiZUF6dXh3dEc4Q1k3ekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzEzMTU4CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4zMF94NjQtc2V0dXAuZXhlCml2RGxZWDY5clEzRStWcWRySmlNUUt3U1JmYXpZeFh5YS9VZHR3MjZneEZjdStGczJhYTZ2Zy92MnoyYkRJb3RYVDZIUGNNd1c4QzhDN1QyQ3lWcENBPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.30-20261006185124/Fixvox-Tauri-Setup.exe"
     }
   }
 }
