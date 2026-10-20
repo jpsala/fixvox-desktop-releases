@@ -1,11 +1,11 @@
 {
-  "version": "0.1.36",
-  "notes": "Modo efectivo corto como único dato principal del dock; receta congelada y detalles por hover/foco. Incluye combinaciones persistentes, reglas por aplicación y marcado interno de clipboard de 0.1.35.",
-  "pub_date": "2026-10-16T16:25:53.397Z",
+  "version": "0.1.37",
+  "notes": "Iconos fijos por categoría en el dock; detalle al hover o foco, combinación agrupada y receta del intento conservada.",
+  "pub_date": "2026-10-20T15:47:34.383Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUlUY3d3amp4cyswSEttbE1QYTByaEdyNlVLMjlQWjFiaVVteGJZekhOTjlnOXZaeHpESlpLTkU5VnlBZ2xuaTNROWZZaG1RNHphSE5VdWdHMUNEY0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY3OTEyCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4zNl94NjQtc2V0dXAuZXhlCkVsV0hMTUtHeGRVbHlERG1xeSt2YktBSDBCTFNxV0JEdXVBZk5HSkk0bTFVOGY1UmxXNkRZVkg0eUJpcFdRU0dCdUMybHNiMXBEY0h1NGUwWnhlOUJRPT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.36-20261016162124/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUpLNDVmY2ZLS0dPM2QreDhvamFXZEkrZDlNVVByWHpjaEIzQ2t6WGlzeG5vV0xNT2lwZ28wQnRFSUNOT05KTy96UHJxUVVLS3NOUm9vaiszQzlLQUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTExMjEzCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4zN194NjQtc2V0dXAuZXhlCnBZSkMrWlVKQW82QVdYTmpaSU5ZWEdtQ1NBQlh5T2p2OFNNY3RGYWpITTl2aHBxdlpqU2dlRjg5T3JkRmRpQ2xOQWRyY09XOUtvUFBKUVY5V1NCd0N3PT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.37-20261020154243/Fixvox-Tauri-Setup.exe"
     }
   }
 }
