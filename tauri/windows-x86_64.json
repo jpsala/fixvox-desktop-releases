@@ -1,11 +1,11 @@
 {
-  "version": "0.1.37",
-  "notes": "Iconos fijos por categoría en el dock; detalle al hover o foco, combinación agrupada y receta del intento conservada.",
-  "pub_date": "2026-10-20T15:47:34.383Z",
+  "version": "0.1.39",
+  "notes": "# Fixvox Tauri 0.1.39 — Candidate\n\n- Corrige la restauración del portapapeles previo tras pegar el dictado, conservando copias nuevas durante la entrega.\n- Incluye el gesto de mouse derecho→izquierdo validado en dev. El clic derecho solo se reenvía al soltar; el arrastre derecho no está soportado cuando el método está asignado.\n- Indicadores fieles a selecciones concretas: perfil/herencia y «sin preset» no se presentan como selecciones propias.\n- Incluye el pulido de iconos compactos y tooltips nativos revisado previamente.\n\n## Limitación conocida de validación\nEsta versión se publica expresamente como **Candidate / prerelease**. La firma de actualización, integridad del paquete, instalación local, checks focales y pruebas en dev fueron comprobados. **El smoke físico del binario instalado está incompleto y produjo resultados inconsistentes: no se acredita validación funcional completa.** En la última corrida instalada, cinco de siete casos cumplieron sus checks; dos no. Su causa no está determinada. El portapapeles original se restauró y verificó.\n\nPublicación autorizada con este límite informado para permitir su descarga en otras computadoras. No implica que el smoke haya aprobado ni cambia los requisitos para futuras versiones. Firma de actualización verificada; no se afirma firma Authenticode. No se cambian automáticamente las preferencias.",
+  "pub_date": "2026-10-20T23:47:42.707Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUpLNDVmY2ZLS0dPM2QreDhvamFXZEkrZDlNVVByWHpjaEIzQ2t6WGlzeG5vV0xNT2lwZ28wQnRFSUNOT05KTy96UHJxUVVLS3NOUm9vaiszQzlLQUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTExMjEzCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4zN194NjQtc2V0dXAuZXhlCnBZSkMrWlVKQW82QVdYTmpaSU5ZWEdtQ1NBQlh5T2p2OFNNY3RGYWpITTl2aHBxdlpqU2dlRjg5T3JkRmRpQ2xOQWRyY09XOUtvUFBKUVY5V1NCd0N3PT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.37-20261020154243/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUFWc04wRDRIc2FFeElCWFFJOXNLenBma3VoQ09tRlY2NWZ1TnpKejRWbENJZVV5bThHUHNkZENObXpSSThBUTVJUGNLK3ptZGJRTy9CUmh4YVlVcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQwMDE3CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4zOV94NjQtc2V0dXAuZXhlClV4aWJXQmw5SVViU0I2QjVEUFpmblBISXJxbTk3ZWI5dFppa3Z2TEY3WjJhempheE1VTmVQVnB6TmZ4UHJFSXNVKzJjdTZSWjB2dWIwVEZBOFdOV0RBPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.39-20261020234249/Fixvox-Tauri-Setup.exe"
     }
   }
 }
